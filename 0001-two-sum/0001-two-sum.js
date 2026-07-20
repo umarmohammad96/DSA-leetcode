@@ -13,11 +13,10 @@ var twoSum = function(nums, target) {
     // }
 
     let hm = new Map();
-    for(let i=0;i<nums.length;i++){
+    
+    for(let i =0 ; i < nums.length; i++) {
+        let val = target - nums[i];
+        if(hm.has(val)) return [hm.get(val), i];
         hm.set(nums[i],i);
-    }
-    for(let i = 0 ; i < nums.length;i++){
-        let tar = target - nums[i];
-        if(hm.has(tar) && hm.get(tar) != i) return [i,hm.get(target-nums[i])]
-    }
+    } return [];
 };
