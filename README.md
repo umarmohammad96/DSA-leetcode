@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -60,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
