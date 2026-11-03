@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
