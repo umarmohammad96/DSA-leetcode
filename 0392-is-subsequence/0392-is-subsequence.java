@@ -7,15 +7,16 @@ class Solution {
         for(int j = 0 ; j < t.length() ; j++){
             if(s.charAt(i) == t.charAt(j)){
                 count++;
+                if(count == s.length()){
+                    return true;
+                }
                 if(i+1 < s.length())
                     i++;
                 else break;
             }
         }
         
-        if(count == s.length()){
-            return true;
-        }
+        
         return false;
     }
 }
