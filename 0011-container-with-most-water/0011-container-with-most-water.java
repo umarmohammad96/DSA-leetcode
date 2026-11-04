@@ -4,10 +4,19 @@ class Solution {
         int j = height.length-1;
         int maxCap = 0;
         while(i < j){
-            int curCap = Math.min(height[i], height[j])*(j-i);
-            maxCap = Math.max(maxCap , curCap);
-            if(height[i] > height[j]) j--;
-            else i++;
+            int h_i = height[i];
+            int h_j = height[j];
+            
+            int curCap = (h_i < h_j ? h_i : h_j) * (j - i);
+            if (curCap > maxCap) {
+                maxCap = curCap;
+            }
+            
+            if (h_i > h_j) {
+                j--;
+            } else {
+                i++;
+            }
         }
         return maxCap;
     }
