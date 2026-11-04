@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
