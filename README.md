@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
