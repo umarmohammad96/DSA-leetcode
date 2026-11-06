@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0219-contains-duplicate-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
