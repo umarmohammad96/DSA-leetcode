@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
+| [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1534-count-good-triplets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
