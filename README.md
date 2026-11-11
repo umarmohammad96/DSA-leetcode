@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1534-count-good-triplets) |
 ## Counting
 |  |
@@ -122,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
