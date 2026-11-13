@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
