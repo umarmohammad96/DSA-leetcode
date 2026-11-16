@@ -1,4 +1,9 @@
 class Solution {
+    public void swapOf(int[] nums,int start,int end){
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
     public void sortColors(int[] nums) {
         // nums.sort((a,b) -> Integer.compare(a,b));
         int l = 0 ; 
@@ -6,17 +11,13 @@ class Solution {
         int h = nums.length-1;
         while(m<=h){
             if (nums[m] == 0){
-                int temp = nums[m];
-                nums[m] = nums[l];
-                nums[l] = temp;
+                swapOf(nums, m, l);
                 l++;
                 m++;
             }
             
             else if(nums[m] == 2){
-                int temp = nums[m];
-                nums[m] = nums[h];
-                nums[h] = temp;
+                swapOf(nums, m, h);
                 h--;
             }
 
