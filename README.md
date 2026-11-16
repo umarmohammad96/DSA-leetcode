@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0162-find-peak-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0189-rotate-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -151,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
