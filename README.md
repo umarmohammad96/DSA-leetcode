@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0739-daily-temperatures) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1534-count-good-triplets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -183,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
