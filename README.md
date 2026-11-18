@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
+| [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -172,8 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
