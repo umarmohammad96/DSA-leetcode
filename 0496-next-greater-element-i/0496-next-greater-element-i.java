@@ -9,10 +9,10 @@ class Solution {
             }
             stk.push(nums2[i]);
         }
-        while(!stk.isEmpty()){
-            map.put(stk.peek(), -1);
-            stk.pop();
-        }
+        // while(!stk.isEmpty()){
+        //     map.put(stk.peek(), -1);
+        //     stk.pop();
+        // }
         int arr[] = new int[nums1.length];
         for(int i = 0 ; i < nums1.length ; i++){
             if(map.containsKey(nums1[i])) arr[i] = map.get(nums1[i]);
