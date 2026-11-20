@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0739-daily-temperatures) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0860-lemonade-change) |
 ## String
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0435-non-overlapping-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
