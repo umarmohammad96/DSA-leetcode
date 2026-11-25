@@ -11,19 +11,30 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
         if(head == null) return null;
-        List<ListNode> refs = new ArrayList<>();
-        for (ListNode curr = head; curr != null; curr = curr.next) {
-            refs.add(curr);
+        // List<ListNode> refs = new ArrayList<>();
+        // for (ListNode curr = head; curr != null; curr = curr.next) {
+        //     refs.add(curr);
+        // }
+        
+        // ListNode listnode = refs.get(refs.size() - 1);
+        // ListNode start = listnode;
+
+        // for(int i = refs.size() - 2 ; i >= 0 ; i--){
+        //     start.next = refs.get(i);
+        //     start = start.next;
+        // }
+        // start.next = null;
+        // return listnode;
+
+        ListNode prev = null;
+
+        while(head != null){
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
         
-        ListNode listnode = refs.get(refs.size() - 1);
-        ListNode start = listnode;
-        
-        for(int i = refs.size() - 2 ; i >= 0 ; i--){
-            start.next = refs.get(i);
-            start = start.next;
-        }
-        start.next = null;
-        return listnode;
+        return prev;
     }
 }
