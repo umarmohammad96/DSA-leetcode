@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
@@ -133,6 +135,7 @@
 | [0069-sqrtx](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
