@@ -140,6 +140,7 @@
 | [0162-find-peak-element](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
@@ -245,4 +246,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
