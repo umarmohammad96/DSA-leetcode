@@ -141,6 +141,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
@@ -250,4 +251,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
