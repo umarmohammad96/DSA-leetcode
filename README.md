@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0055-jump-game) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -206,6 +208,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -221,4 +224,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
