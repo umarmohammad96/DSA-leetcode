@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0041-first-missing-positive) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
