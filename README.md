@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0860-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0905-sort-array-by-parity) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1534-count-good-triplets) |
@@ -69,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0088-merge-sorted-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0905-sort-array-by-parity](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
