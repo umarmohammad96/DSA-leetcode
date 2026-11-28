@@ -40,6 +40,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1534-count-good-triplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -139,6 +140,7 @@
 | [0905-sort-array-by-parity](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/umarmohammad96/umarmohammad96-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
